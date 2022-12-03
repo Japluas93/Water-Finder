@@ -1,1 +1,1 @@
-# Water-Finder
+# WaterFinder
